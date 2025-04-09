@@ -1,2 +1,2 @@
-docker run --rm -it -v ./docker_volume:/work bitcoin:ubuntu22.04
+docker run -it -v ./docker_volume:/work bitcoin:ubuntu22.04
 
